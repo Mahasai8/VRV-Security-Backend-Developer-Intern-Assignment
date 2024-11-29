@@ -1,1 +1,3 @@
 # VRV-Security-Backend-Developer-Intern-Assignment
+
+This project is about creating a system where people can sign up, log in, and access different parts of a website depending on their role, like "Admin" or "User." It uses a secure way to store passwords and gives each person a special token (like a digital key) when they log in. This key lets them use the site safely and automatically logs them out when their time is up unless they refresh it. The system makes it easy to decide who can do what, depending on their role. Everything is designed to keep users safe and ensure only the right people can access certain features.
